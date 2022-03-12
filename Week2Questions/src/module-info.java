@@ -1,8 +1,0 @@
-class Week2Questions {
-	
-	
-	
-	
-	
-	
-}
